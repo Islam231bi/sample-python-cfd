@@ -93,3 +93,5 @@ docker-compose -f docker-compose-test.yml up --build --exit-code-from web
 This repository is licensed under the MIT license.
 The license can be found [here](./LICENSE).
 
+test
+
